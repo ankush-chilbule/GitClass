@@ -1,1 +1,10 @@
 Hello World
+
+class MyClass{
+
+	static public main(){
+
+
+	}
+
+}

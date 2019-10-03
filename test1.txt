@@ -3,8 +3,10 @@ Hello World
 class MyClass{
 
 	static public main(){
+	 mymthod(){
 
-
+		System.out.printl("a");
+	   }
 	}
 
 }

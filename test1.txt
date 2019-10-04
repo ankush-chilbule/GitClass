@@ -12,5 +12,5 @@ class MyClass{
 }
 my method2(){
 helllo
-
+hello22
 }

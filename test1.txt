@@ -14,3 +14,8 @@ my method2(){
 helllo
 hello22
 }
+
+method3()
+{
+ added by someone else
+}
